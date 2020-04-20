@@ -1,0 +1,14 @@
+C:\Users\çtr\source\repos\BilgiYarismasi.API\BilgiYarismasi.API\obj\Debug\netcoreapp2.2\BilgiYarismasi.API.csprojAssemblyReference.cache
+C:\Users\çtr\source\repos\BilgiYarismasi.API\BilgiYarismasi.API\obj\Debug\netcoreapp2.2\BilgiYarismasi.API.csproj.CoreCompileInputs.cache
+C:\Users\çtr\source\repos\BilgiYarismasi.API\BilgiYarismasi.API\obj\Debug\netcoreapp2.2\BilgiYarismasi.API.RazorAssemblyInfo.cache
+C:\Users\çtr\source\repos\BilgiYarismasi.API\BilgiYarismasi.API\obj\Debug\netcoreapp2.2\BilgiYarismasi.API.RazorAssemblyInfo.cs
+C:\Users\çtr\source\repos\BilgiYarismasi.API\BilgiYarismasi.API\obj\Debug\netcoreapp2.2\BilgiYarismasi.API.AssemblyInfoInputs.cache
+C:\Users\çtr\source\repos\BilgiYarismasi.API\BilgiYarismasi.API\obj\Debug\netcoreapp2.2\BilgiYarismasi.API.AssemblyInfo.cs
+C:\Users\çtr\source\repos\BilgiYarismasi.API\BilgiYarismasi.API\bin\Debug\netcoreapp2.2\BilgiYarismasi.API.deps.json
+C:\Users\çtr\source\repos\BilgiYarismasi.API\BilgiYarismasi.API\bin\Debug\netcoreapp2.2\BilgiYarismasi.API.runtimeconfig.json
+C:\Users\çtr\source\repos\BilgiYarismasi.API\BilgiYarismasi.API\bin\Debug\netcoreapp2.2\BilgiYarismasi.API.runtimeconfig.dev.json
+C:\Users\çtr\source\repos\BilgiYarismasi.API\BilgiYarismasi.API\bin\Debug\netcoreapp2.2\BilgiYarismasi.API.dll
+C:\Users\çtr\source\repos\BilgiYarismasi.API\BilgiYarismasi.API\bin\Debug\netcoreapp2.2\BilgiYarismasi.API.pdb
+C:\Users\çtr\source\repos\BilgiYarismasi.API\BilgiYarismasi.API\obj\Debug\netcoreapp2.2\BilgiYarismasi.API.RazorTargetAssemblyInfo.cache
+C:\Users\çtr\source\repos\BilgiYarismasi.API\BilgiYarismasi.API\obj\Debug\netcoreapp2.2\BilgiYarismasi.API.dll
+C:\Users\çtr\source\repos\BilgiYarismasi.API\BilgiYarismasi.API\obj\Debug\netcoreapp2.2\BilgiYarismasi.API.pdb

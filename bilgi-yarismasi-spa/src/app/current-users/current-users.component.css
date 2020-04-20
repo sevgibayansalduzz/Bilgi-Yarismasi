@@ -1,0 +1,13 @@
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+.clr{
+  color: white
+}
+table {
+  border-collapse: collapse;
+  }
+i.icon-white {
+    color: white;
+}

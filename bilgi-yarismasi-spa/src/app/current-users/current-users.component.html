@@ -1,0 +1,9 @@
+<div class="wrapper">
+    <table>
+        <tr *ngFor="let usr of signalRService.users" class="row">
+          <td><i class="small material-icons prefix icon-white">person</i></td>
+          <td class="clr">{{usr.name}}</td>
+          <td class="clr">{{usr.statu}}</td>
+        </tr>
+      </table>
+</div> 

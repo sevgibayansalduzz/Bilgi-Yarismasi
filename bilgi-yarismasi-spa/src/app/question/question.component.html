@@ -1,0 +1,37 @@
+<app-navbar></app-navbar>
+<div class="wrapper"> 
+  <div class="main">
+    <p [hidden]="statu || qnumber==0">
+          Rakibiniz hamle yaptığında yeni soruya geçilecektir.
+    </p>
+    <div class="row" *ngIf="questions!=null && qnumber < 10 && (statu || qnumber==0)">
+        <div class="col s8 offset-s2">
+          <div class="card teal lighten-2">
+            <div class="card-content white-text">
+              <span *ngIf="questions" class="card-title">{{qnumber+1}}</span>
+              <p>{{questions[qnumber].questionText}}</p>
+            </div>
+            <div class="card-action">
+              <ul class="collection answer">
+                <li  class="collection-item" (click)="Answer('1')">
+                  {{questions[qnumber].choice1}}
+                </li>
+                <li  class="collection-item" (click)="Answer('2')">
+                  {{questions[qnumber].choice2}}
+                </li>
+                <li  class="collection-item" (click)="Answer('3')">
+                  {{questions[qnumber].choice3}}
+                </li>
+                <li  class="collection-item" (click)="Answer('4')">
+                  {{questions[qnumber].choice4}}
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+  </div> 
+  <div class="sidebar">
+    <app-current-users></app-current-users>
+  </div>
+</div>            

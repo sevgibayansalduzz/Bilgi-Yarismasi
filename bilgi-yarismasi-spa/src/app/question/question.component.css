@@ -1,0 +1,35 @@
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .main{
+    margin-top: 0%;
+    margin-left: 0%;
+    padding: 15px;
+    background-color: white;
+  }
+  
+  .sidebar {
+    margin-top: 0%;
+    margin-right: 0%;
+    padding: 15px;
+    background-color: darkcyan;
+  }
+  .main {
+    width: 75%;
+    height: 150vh;
+  }
+  
+  .sidebar {
+    width: 25%;
+    height: 150vh;
+  }
+  .clr{
+    color: darkcyan;
+  }
+  body {
+    background-color: #ccc;
+    font-family: sans-serif;
+    padding: 10px;
+  }

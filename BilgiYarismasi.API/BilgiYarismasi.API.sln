@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilgiYarismasi.API", "BilgiYarismasi.API\BilgiYarismasi.API.csproj", "{1DFFB767-29BD-4869-B88F-9008E81BAF98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DFFB767-29BD-4869-B88F-9008E81BAF98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DFFB767-29BD-4869-B88F-9008E81BAF98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DFFB767-29BD-4869-B88F-9008E81BAF98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DFFB767-29BD-4869-B88F-9008E81BAF98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D4A4C7A-02E3-4D6D-B04C-CB4E0BB41C53}
+	EndGlobalSection
+EndGlobal
